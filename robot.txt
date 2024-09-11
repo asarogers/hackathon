@@ -1,1 +1,2 @@
 wheeled robots because they are easier to program
+I tried programming a drone to avoid walls.. it worked.. kinda... in a way.. it was painful
