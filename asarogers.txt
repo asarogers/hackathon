@@ -1,6 +1,3 @@
-I love programming drones  zkweng.F
-I built a navigation robot as a senior project  zkweng.T
-I am a freelance web developer  zkweng.T
-I love programming drones asa.F
-I built a navigation robot as a senior project asa.T
-I am a freelance web developer asa.T
+I love programming drones asa.F zkweng.F
+I built a navigation robot as a senior project asa.T zkweng.T
+I am a freelance web developer asa.T zkweng.T
